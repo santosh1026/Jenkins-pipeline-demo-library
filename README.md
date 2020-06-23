@@ -1,2 +1,3 @@
-# Jenkins-pipeline-demo-library
-Jenkins-pipeline-demo-library(library files stored in the repo)
+# jenkins-pipeline-demo-library
+
+Living source code at https://github.com/sixeyed/jenkins-pipeline-demo-library
